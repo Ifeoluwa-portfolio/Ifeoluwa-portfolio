@@ -8,7 +8,7 @@ I'm a Data analyst who loves transforming raw data,into clear, meaningful insigh
 - Python
 
 ## My Project
--sales Performance dashboard (https://github.com/Ifeoluwa-portfolio/sale-performance-dashboard)
+-sales Performance dashboard (https://github.com/Ifeoluwa-portfolio/sales-performance-dashboard)
 
 ## Connect me 
 [Linkedln](www.linkedin.com/in/oguntula-ifeoluwa)
